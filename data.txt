@@ -3,4 +3,9 @@ Hello World!
 
 
 Hello again.
+<<<<<<< HEAD
 Howdy.
+=======
+
+Hello round 3
+>>>>>>> 65d969f073f05c1cb6ecc8950200602c9845bf0a
