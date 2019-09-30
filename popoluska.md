@@ -1,5 +1,4 @@
-Toto je rozpravka o Snehulienke.
-=====
+#Toto je rozpravka o Snehulienke.
 
 > Bola krasna mudra
 > sikovna i inteligentna
