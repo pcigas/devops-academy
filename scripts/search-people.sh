@@ -1,15 +1,17 @@
 #!/bin/bash
 
-PEOPLE=("Jozko Mrkvicka" "Bruno Banani" "Milan Rufus")
+PEOPLE=("Jozko Mrkvicka" \
+"Bruno Banani" \
+"Milan Rufus")
 
 echo "Zadaj koho hladas"
 read choose
 
-for name in ${PEOPLE[*]}
+for name in "${PEOPLE[@]}"
 do
-	if [[ $name == "*$choose*" ]]
+	if [[ $name == *"$choose"* ]]
 	then
-		echo Match!
+		echo "Match! -> $name"
 		exit 0
 	fi
 done
