@@ -9,8 +9,9 @@ Všetky druhy mandarínok patria do skupiny jasne oranžových citrusových plodov s 
 
 
 **Obsah**
-1	Liecivé látky
-2	Galéria
-3	Iné projekty
-4	Zdroj
+
+1.	Liecivé látky
+2.	Galéria
+3.	Iné projekty
+4.	Zdroj
 
