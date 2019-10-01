@@ -1,1 +1,1 @@
-![mandarinka](https://cdn.imgbin.com/12/8/8/imgbin-orange-juice-tangerine-mandarin-orange-satsuma-mandarin-orange-UcM9kiWtSWGEXwsMtqmddBPp0.jpg)
+![mandarinka](http://pngimg.com/uploads/orange/orange_PNG777.png)
