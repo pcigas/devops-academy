@@ -1,21 +1,23 @@
 #!/bin/bash
 
-PEOPLE=("Jozko Mrkvicka" \
-"Bruno Banani" \
-"Milan Rufus")
+
+DB=./people.db
+
+
 
 search()
 {
 	name="$@"
 	local matches="0"
-	for name in "${PEOPLE[@]}"
+	
+	while IFS=\n read -r name
 	do
 		if [[ $name == *"$choose"* ]]
 		then
 			echo "Match! -> $name"
 			matches=$((matches+1))
 		fi
-	done
+	done <$DB
 	
 	if [[ $matches -gt 0 ]]
 	then
