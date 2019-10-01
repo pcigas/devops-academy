@@ -22,3 +22,15 @@ for (var i=0; i < numbers.length; i++) {
 }
 console.log(numbers);
 ~~~
+
+> Test of 
+> HTML syntax.
+>
+
+~~~html
+<head>
+    <title>My first blogpost</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+~~~
