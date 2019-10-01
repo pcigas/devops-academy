@@ -8,7 +8,7 @@ DB=./people.db
 search()
 {
 	name="$@"
-	local matches="0"
+	matches="0"
 	
 	while IFS=\n read -r name
 	do
@@ -42,7 +42,7 @@ read_name "$@"
 
 if search $choose
 then
-	echo "Found!"
+	echo "Found $matches matches!"
 else
 	echo "Not found!"
 fi
