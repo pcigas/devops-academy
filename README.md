@@ -13,3 +13,22 @@ Ut vitae lacus consectetur, scelerisque est id, varius nisl.
 * Aliquam ullamcorper libero vel nunc egestas imperdiet.
 * Etiam faucibus sem id nulla eleifend, sit amet lobortis urna feugiat.
 * Vivamus vitae orci euismod, auctor augue et, aliquet ligula.
+
+Here's a numbered list:
+
+ 1. first item
+ 2. second item
+ 3. third item
+
+~~~
+This is a comment
+~~~
+
+~~~python
+import time
+# Quick, count to ten!
+for i in range(10):
+    # (but not *too* quick)
+    time.sleep(0.5)
+    print i
+~~~
