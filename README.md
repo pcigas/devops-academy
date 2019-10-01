@@ -1,7 +1,7 @@
 # devops-academy
 ## My first GIT repository
 
-Suspendisse varius turpis sed neque scelerisque tincidunt. Aliquam sed volutpat lectus. **Quisque quis erat quis sem vestibulum imperdiet. Duis a finibus lectus, vel commodo felis. Donec elementum faucibus laoreet.** Sed sed lobortis lacus. Aliquam et justo et mi rutrum sodales ut sit amet nibh. Cras a tellus vitae sem tincidunt ornare a ut leo. *Vestibulum fringilla molestie ipsum, nec elementum ipsum hendrerit non.*
+Ale nemyslím, tincidunt laoreet Suspendisse Varius turpis. Ale niektorí víkend absolvoval. ** Každý z nich mal nejaký šalát výrobné účes. Homework absolvoval tlačidlo strany alebo pohodlie. Till element prechádza kol. ** ale krabicu a jazier. A len moja make-up, a niektorí členovia, ako je mrkva NIBH. Pede tincidunt ornare život ako lev Zajtra je bezdrôtová sieť. * Sed samotná ekologická televízie, a nie prvku samotného Bureau. *
 
 ***Pellentesque nulla metus, feugiat id augue vestibulum, placerat faucibus neque.*** Ut non purus ut ligula gravida tempus et non nisl. Aenean et porta magna. Fusce eu fermentum augue. Morbi at.
 
