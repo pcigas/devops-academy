@@ -13,3 +13,7 @@ Toto je rozpravka o Snehulienke.
 ~~~
 google seach Ako presunut macochu do /dev/null?
 ~~~
+
+
+
+Simple text
