@@ -5,9 +5,9 @@ Suspendisse varius turpis sed neque scelerisque tincidunt. Aliquam sed volutpat 
 
 ***Pellentesque nulla metus, feugiat id augue vestibulum, placerat faucibus neque.*** Ut non purus ut ligula gravida tempus et non nisl. Aenean et porta magna. Fusce eu fermentum augue. Morbi at.
 
-- Aenean a elit vitae nibh ultrices gravida.
-- Pellentesque vel quam vitae magna ultrices suscipit.
-- Ut vitae lacus consectetur, scelerisque est id, varius nisl.
+Aenean a elit vitae nibh ultrices gravida.
+Pellentesque vel quam vitae magna ultrices suscipit.
+Ut vitae lacus consectetur, scelerisque est id, varius nisl.
 
 * Integer vel purus eleifend, porttitor mi non, scelerisque elit.
 * Aliquam ullamcorper libero vel nunc egestas imperdiet.
